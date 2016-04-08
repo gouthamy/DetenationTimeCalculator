@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS dtc;
+
+GRANT ALL ON dtc.* TO 'dtcuser'@'%' IDENTIFIED BY 'nalashaa' WITH GRANT OPTION ;
