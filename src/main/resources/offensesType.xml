@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<offensesTypes>
+
+	<offense>
+		<id>1</id>
+		<name>Homework not done</name>
+		<period>1</period>
+	</offense>
+	<offense>
+		<id>2</id>
+		<name>Stealing</name>
+		<period>2</period>
+	</offense>
+	<offense>
+		<id>3</id>
+		<name>fighting</name>
+		<period>2</period>
+	</offense>
+
+</offensesTypes>

@@ -1,0 +1,19 @@
+{
+	"type":"offenses",	
+	"offenses" : [{
+		"id":1,
+		"offenseName":"Home work not done",
+		"detenationPeriod":1.0
+	},
+	{
+		"id":2,
+		"offenseName":"Stealing",
+		"detenationPeriod":2.0
+	},
+	{
+		"id":3,
+		"offenseName":"Fighting",
+		"detenationPeriod":1.0
+	}]
+
+}
